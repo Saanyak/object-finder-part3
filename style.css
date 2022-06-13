@@ -1,0 +1,38 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+    color: #1761ff;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+p {
+    color: white;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+.object_name {
+    color: #2631d4;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#input_id {
+    color: #2631d4;
+    font-family: pacifico;
+    font-size: 15;
+}
+
+canvas {
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+    background-color: blue;
+}
